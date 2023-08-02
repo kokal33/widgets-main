@@ -1,0 +1,9 @@
+{
+  "extends": "./tsconfig.build.json",
+  "compilerOptions": {
+    "paths": {
+      "@kokal33/widgets": ["index"]
+    }
+  },
+  "include": ["src/", "test/", "e2e/"]
+}
