@@ -9897,7 +9897,7 @@
     "webpack-dev-middleware" "^4.3.0"
     "yargs" "^16.2.0"
 
-"react-dom@^0.14.8 || ^15.0.1 || ^16.0.0 || ^17.0.1", "react-dom@^15.0.0 || ^16.0.0 || ^17.0.0", "react-dom@^15.3.0 || ^16.0.0-alpha || ^17.0.0", "react-dom@^16.8 || ^17.0 || ^18.0", "react-dom@^17.0.1 <18.0.0", "react-dom@>= 16.8.0":
+"react-dom@^0.14.8 || ^15.0.1 || ^16.0.0 || ^17.0.1", "react-dom@^15.0.0 || ^16.0.0 || ^17.0.0", "react-dom@^15.3.0 || ^16.0.0-alpha || ^17.0.0", "react-dom@^16.8 || ^17.0 || ^18.0", "react-dom@>= 16.8.0", "react-dom@>=17.0.1":
   "integrity" "sha512-s4h96KtLDUQlsENhMn1ar8t2bEa+q/YAtj8pPPdIjPDGBDIVNsrD9aXNWqspUe6AzKCIG0C1HZZLqLV7qpOBGA=="
   "resolved" "https://registry.npmjs.org/react-dom/-/react-dom-17.0.2.tgz"
   "version" "17.0.2"
@@ -9989,7 +9989,7 @@
     "@babel/runtime" "^7.0.0"
     "memoize-one" ">=3.1.1 <6"
 
-"react@^0.14.8 || ^15.0.1 || ^16.0.0 || ^17.0.1", "react@^15.0.0 || ^16.0.0 || ^17.0.0", "react@^15.3.0 || ^16.0.0-alpha || ^17.0.0", "react@^16.8 || ^17.0 || ^18.0", "react@^16.8.0 || ^17", "react@^16.8.0 || ^17.0.0 || ^18.0.0", "react@^16.8.6 || ^17", "react@^16.9.0 || ^17.0.0 || ^18", "react@^17.0.1 <18.0.0", "react@>= 16.8.0", "react@>=16.3.0", "react@>=16.8", "react@>=17", "react@17.0.2":
+"react@^0.14.8 || ^15.0.1 || ^16.0.0 || ^17.0.1", "react@^15.0.0 || ^16.0.0 || ^17.0.0", "react@^15.3.0 || ^16.0.0-alpha || ^17.0.0", "react@^16.8 || ^17.0 || ^18.0", "react@^16.8.0 || ^17", "react@^16.8.0 || ^17.0.0 || ^18.0.0", "react@^16.8.6 || ^17", "react@^16.9.0 || ^17.0.0 || ^18", "react@>= 16.8.0", "react@>=16.3.0", "react@>=16.8", "react@>=17", "react@>=17.0.1", "react@17.0.2":
   "integrity" "sha512-gnhPt75i/dq/z3/6q/0asP78D0u592D5L1pd7M8P+dck6Fu/jJeL6iVVK23fptSUZj8Vjf++7wXA8UNclGQcbA=="
   "resolved" "https://registry.npmjs.org/react/-/react-17.0.2.tgz"
   "version" "17.0.2"

@@ -48,3 +48,9 @@ Others have also also released the widget in production to their userbase:
 ## Legal notice
 
 Uniswap Labs encourages integrators to evaluate their own regulatory obligations when integrating this widget into their products, including, but not limited to, those related to economic or trade sanctions compliance.
+
+
+Build the project - before publishing
+1.npm run prepare
+2.npm run prebuild
+3.npm run build

@@ -32,9 +32,10 @@ export const JSON_RPC_FALLBACK_ENDPOINTS: Record<SupportedChainId, string[]> = {
     // "Fallback" URLs
     'https://rpc.ankr.com/eth_goerli',
   ],
-  [SupportedChainId.MODE]: [ //TODO(td): I think here mode is added, check again if something is needed in this file
-    'https://sepolia.mode.network',
-  ],
+  // TODO(td): Add mode chain here
+  // [SupportedChainId.MODE]: [ 
+  //   'https://sepolia.mode.network',
+  // ],
   [SupportedChainId.SEPOLIA]: [
     'https://eth-sepolia.g.alchemy.com/v2/demo',
   ],

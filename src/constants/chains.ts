@@ -8,7 +8,7 @@ export enum SupportedChainId {
   GOERLI = 5,
   KOVAN = 42,
   SEPOLIA = 11155111,
-  MODE = 919,
+  // MODE = 919,
   
   ARBITRUM_ONE = 42161,
   ARBITRUM_RINKEBY = 421611,
@@ -96,7 +96,8 @@ export const L1_CHAIN_IDS = [
 
 export type SupportedL1ChainId = typeof L1_CHAIN_IDS[number]
 
-/**
+// TODO(td): look into adding it as L2
+/** 
  * Controls some L2 specific behavior, e.g. slippage tolerance, special UI behavior.
  * The expectation is that all of these networks have immediate transaction confirmation.
  */
