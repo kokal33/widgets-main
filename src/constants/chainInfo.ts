@@ -237,6 +237,7 @@ const CHAIN_INFO: ChainInfoMap = {
     color: '#F0B90B',
     backgroundColor: '#F0B90B',
   },
+  // TODO(td): add chain support here for mode
   [SupportedChainId.SEPOLIA]: {
     networkType: NetworkType.L1,
     docs: 'https://docs.sepolia.network/',

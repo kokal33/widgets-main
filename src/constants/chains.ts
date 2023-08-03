@@ -32,6 +32,7 @@ export enum ChainName {
   GOERLI = 'goerli',
   KOVAN = 'kovan',
   SEPOLIA = 'sepolia',
+  //TODO(td): add mode chainname
   OPTIMISM = 'optimism-mainnet',
   OPTIMISM_GOERLI = 'optimism-goerli',
   ARBITRUM_ONE = 'arbitrum-mainnet',

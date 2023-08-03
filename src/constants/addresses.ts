@@ -17,6 +17,7 @@ export const MULTICALL_ADDRESS: AddressMap = {
   [SupportedChainId.CELO]: '0x633987602DE5C4F337e3DbF265303A1080324204',
   [SupportedChainId.CELO_ALFAJORES]: '0x633987602DE5C4F337e3DbF265303A1080324204',
   [SupportedChainId.SEPOLIA]: '0xcA11bde05977b3631167028862bE2a173976CA11', // makerDao multicall on sepolia
+  //TODO(td): multicall contract address here: makerDao has one on github can be deployed
 }
 
 export const SWAP_ROUTER_ADDRESSES: AddressMap = {
@@ -31,6 +32,7 @@ export const SWAP_ROUTER_ADDRESSES: AddressMap = {
   [SupportedChainId.CELO]: '0x5615CDAb10dc425a742d643d949a7F474C01abc4',
   [SupportedChainId.CELO_ALFAJORES]: '0x5615CDAb10dc425a742d643d949a7F474C01abc4',
   [SupportedChainId.SEPOLIA]: '0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD', // Uniswap router on sepolia
+  //TODO(td): mode router here
 }
 
 export const ARGENT_WALLET_DETECTOR_ADDRESS: AddressMap = {

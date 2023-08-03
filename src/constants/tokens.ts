@@ -130,7 +130,8 @@ export const USDC_BNB_CHAIN = new Token(
   'USDC',
   'USDC'
 )
-// SEPOLIA
+// SEPOLIA 
+//TODO(td): add deployed tokens definitions here, then add them to the definition constants below
 export const USDC_SEPOLIA = new Token(
   SupportedChainId.SEPOLIA,
   '0xFa38B962562DF7F9eeD9d8Db3cC261053EFC263B',
